@@ -15,7 +15,7 @@ ALGORITMA:
       if arr[index] > arr[index + 1]:
         temp = arr[index]
         arr[index] = arr[index + 1]
-        arr[index + 1] = tem;
+        arr[index + 1] = temp;
 */
 
 int main() {
